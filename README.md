@@ -153,7 +153,9 @@ The repository contains:
 The complete research dissertation is available as:
 
 ```
-Paper.pdf
+Analysis.pdf
+and
+Analysis.docx
 ```
 
 ---
@@ -162,7 +164,7 @@ Paper.pdf
 
 If you use this repository or its results, please cite:
 
-> *Your Name*. (2025). **Integrated Transcriptomic Analysis of Alzheimer's Disease**. Independent Bioinformatics Research Project.
+> Rita Ellinidou. (2026). **Integrated Transcriptomic Analysis of Alzheimer's Disease**. Independent Bioinformatics Research Project.
 
 ---
 
