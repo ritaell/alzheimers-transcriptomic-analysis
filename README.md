@@ -153,7 +153,9 @@ The repository contains:
 The complete research dissertation is available as:
 
 ```
-Paper.pdf
+Analysis.pdf
+and
+Analysis.docx
 ```
 
 ---
