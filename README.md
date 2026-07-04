@@ -1,4 +1,7 @@
 # Integrated Transcriptomic Analysis of Alzheimer's Disease
+[![DOI](https://zenodo.org/badge/1289255406.svg)](https://doi.org/10.5281/zenodo.21198585)
+
+Integrated transcriptomic analysis of Alzheimer's disease using publicly available GEO datasets to identify conserved differentially expressed genes, enriched biological pathways, and protein–protein interaction networks.
 
 ## Overview
 
